@@ -8,7 +8,7 @@ O projeto simula um sistema de saque de um caixa eletrônico com condições dif
 - Maven;
 - Cucumber;
 - JUnit.
-- 
+
 ## Cenários Cucumber
 <img src="">
 
