@@ -10,9 +10,11 @@ O projeto simula um sistema de saque de um caixa eletrônico com condições dif
 - JUnit.
 
 ## Cenários Cucumber
-<img src="">
+Cucumber gerado do projeto:
+<img src="img/Cucumber.png">
 
 ## Resultados no Testes JUnit
-<img src="">
+Após os testes finalizados:
+<img src="img/Teste.png">
 
 ## Última Atualização 01/12/2023
